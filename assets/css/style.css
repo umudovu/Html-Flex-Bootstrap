@@ -1,0 +1,135 @@
+
+
+.navbar{
+    background-color: rgb(44,62,80);
+}
+
+.navbar-brand{
+    font-size: 1.9rem;
+}
+.container a{
+    color: white;
+    font-weight: 700;
+}
+
+.container a:hover{
+    color: rgb(26,188,156);
+    cursor: pointer;
+}
+
+
+#hero{
+    margin-top: 70px;
+    background-color: rgb(26,188,156);
+    padding: 40px;
+}
+
+.avatar{
+    width: 15rem;
+}
+.container p{
+    color: white;
+    margin-top: 15px;
+}
+
+.container h1{
+    color: white;
+    font-weight: 700;
+}
+
+.divide .divide-line{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+    border-radius: 5px;
+    margin:0 5px;
+}
+.divide .divide-icon i{
+    color: white;
+    font-size: 1.7rem;
+}
+
+
+#portfolio{
+    padding: 40px;
+}
+.p-head{
+    font-size: 3rem;
+    font-weight: 700;
+}
+.divide-2 .divide-line-2{
+    width: 100px;
+    height: 4px;
+    background-color: rgb(44,62,80);
+    border-radius: 5px;
+    margin:0 5px;
+}
+.divide-2 .divide-icon-2 i{
+    color: rgb(44,62,80);
+    font-size: 1.7rem;
+}
+
+
+.p-item img{
+    max-width: 22rem;
+}
+
+.p-item img:hover{
+    cursor:pointer;
+}
+
+
+#about{
+    background-color: rgb(26,188,156);
+    padding: 40px;
+}
+
+.a-head{
+    font-size: 3rem;
+    font-weight: 700;
+    color: white;
+}
+
+.about-text span{
+    color: white;
+    font-size: 14px;
+}
+
+.d-button{
+    border: 1px solid white;
+    padding: 10px 15px;
+    color: white;
+}
+
+.d-button a{
+    text-decoration: none;
+}
+
+.d-button:hover{
+    background-color: white;
+    color: black;
+}
+
+footer{
+    background-color: rgb(44,62,80);
+    color: white;
+}
+
+.social-links i{
+    font-size: 2rem;
+    margin-left: 10px;
+}
+
+.social-links i:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.end-link a{
+    color: rgb(26,188,156);
+}
+
+.copyrght{
+    padding: 20px;
+    background-color: rgb(26,37,47);
+}
